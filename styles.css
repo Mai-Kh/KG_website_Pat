@@ -3,10 +3,15 @@ body {
 }
 
 h2 {
-  color: #7A0019;
-}
+  color: #800080;
+  }
 
-#contact {
-  background-color: #FFDE7A;
+#toolbar {
+  background-color: #E6E6FA;
   padding: 2%;
+  }
+
+footer {
+    background-color: #E6E6FA;
+    padding: 2%;
 }
