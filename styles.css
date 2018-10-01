@@ -2,11 +2,14 @@ body {
   font-family: "Helvetica", sans-serif;
 }
 
+body {
+  background-image: url("images/Website background.jpg");
+}
 h2 {
   color: #800080;
   }
 
-#toolbar {
+ #toolbar {
   background-color: #E6E6FA;
   padding: 2%;
   }
