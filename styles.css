@@ -5,11 +5,17 @@ body {
 body {
   background-image: url("images/Website background.jpg");
 }
+/* inline display of navigaion buttons*/
+li {
+  display: inline;
+  margin-right: 10px;
+}
+
 h2 {
   color: #800080;
   }
 
- #toolbar {
+ #banner {
   background-color: #E6E6FA;
   padding: 2%;
   }
