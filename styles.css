@@ -37,7 +37,6 @@ li a:hover:not(.active) {
     background-color: #4CAF50;
 }
 
-/* end of navigation bar--/
 h2 {
   color: #800080;
   }
@@ -50,4 +49,6 @@ h2 {
 footer {
     background-color: #E6E6FA;
     padding: 3%;
+    font-size: 60%;
+    text-align: center;
 }
