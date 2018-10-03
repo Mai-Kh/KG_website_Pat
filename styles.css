@@ -6,11 +6,36 @@ body {
   background-image: url("images/Website background.jpg");
 }
 /* inline display of navigaion buttons*/
+#toolbar {
+  background-color: #800080;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #800080;
+}
 li {
   display: inline;
-  margin-right: 10px;
+  margin-right: 6px;
+  float: left;
 }
 
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+
+/* end of navigation bar--/
 h2 {
   color: #800080;
   }
@@ -22,5 +47,5 @@ h2 {
 
 footer {
     background-color: #E6E6FA;
-    padding: 2%;
+    padding: 3%;
 }
