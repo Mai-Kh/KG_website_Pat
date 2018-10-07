@@ -46,10 +46,10 @@ h2 {
    padding: 2%;
    }
 /*ministry title font style*/
-min {
+#min {
   font-family: 'Courgette', cursive;
   font-size: 60%;
-  text-align: center;
+  text-align: left;
 }
 footer {
     background-color: #E6E6FA;
