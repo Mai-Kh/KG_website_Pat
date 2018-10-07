@@ -40,20 +40,28 @@ li a:hover:not(.active) {
 h2 {
   color: #800080;
   }
-
- #banner {
-  background-color: #E6E6FA;
-  padding: 2%;
-  }
-
+/*Home page banner color with picture*/
+  #banner {
+   background-color: #E6E6FA;
+   padding: 2%;
+   }
+/*ministry title font style*/
+min {
+  font-family: 'Courgette', cursive;
+  font-size: 60%;
+  text-align: center;
+}
 footer {
     background-color: #E6E6FA;
     padding: 3%;
     font-size: 60%;
     text-align: center;
 }
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
 /* Style inputs with type="text", select elements and textareas */
-input[type=Formtext], select, textarea {
+input[type=formtext], select, textarea {
     width: 100%; /* Full width */
     padding: 15px; /* Some padding */
     border: 2px solid #ccc; /* Gray border */
@@ -84,5 +92,4 @@ input[type=submit]:hover {
     border-radius: 7px;
     background-color: #f2f2f2;
     padding: 16px;
-  
 }
