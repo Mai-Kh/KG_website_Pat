@@ -61,6 +61,28 @@ h2 {
   font-size: 60%;
   text-align: left;
 }
+#bookcv img {
+  margin: 2%;
+  }
+
+  button {
+    background-color: #800080;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%
+    cursor: pointer;
+    }
+    Button:hover:not(.active) {
+        background-color: #111;
+    }
+     
+  /*need another order page for button*/
 
 footer {
     background-color: #E6E6FA;
