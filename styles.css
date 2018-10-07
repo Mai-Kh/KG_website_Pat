@@ -52,7 +52,7 @@ h2 {
 /*Home page banner color with picture*/
   #banner {
    background-color: #E6E6FA;
-   padding: 1%;
+   padding: 2%;
    }
 
 /*ministry title font style*/
@@ -67,7 +67,8 @@ footer {
     padding: 3%;
     font-size: 60%;
     text-align: center;
-}
+    }
+    /*contact form*/
 body {font-family: Arial, Helvetica, sans-serif;}
 * {box-sizing: border-box;}
 
