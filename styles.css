@@ -82,6 +82,12 @@ h2 {
     }
 
   /*need another order page for button*/
+  #pat img {
+    margin: 2%;
+    }
+p {
+  margin: 5%;
+}
 
 footer {
     background-color: #E6E6FA;
