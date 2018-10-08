@@ -82,12 +82,6 @@ h2 {
     }
 
   /*need another order page for button*/
-  #pat img {
-    margin: 2%;
-    }
-p {
-  margin: 5%;
-}
 
 footer {
     background-color: #E6E6FA;
@@ -131,4 +125,14 @@ input[type=submit]:hover {
     border-radius: 7px;
     background-color: #f2f2f2;
     padding: 16px;
+}
+
+p.one {
+  border: none
+}
+p.two {
+  border: none
+}
+p.three {
+  border: none
 }
