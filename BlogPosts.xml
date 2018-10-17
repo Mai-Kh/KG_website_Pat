@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/css" href="businesscard.css"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
 <!DOCTYPE BlogPosts SYSTEM "BlogPosts.dtd">
 <BlogPosts>
     <BlogPost>
@@ -12,8 +12,8 @@
     </BlogPost>
 
    <BlogPost>
-      <date> October 2, 2018</date>
-      <title> What's in my family line?</title>
+      <date>November 24, 2018</date>
+      <title>What's in my Family Line?</title>
       <author type="Guest Blogger">Katharine Gruber</author>
       <content>article body</content>
       <scripture>Bible reference</scripture>
