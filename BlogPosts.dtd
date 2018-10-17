@@ -1,0 +1,9 @@
+<!DOCTYPE BlogPosts [
+<!ELEMENT BlogPost (date, title, author, content, scripture, prayer?)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT content (#PCDATA)>
+<!ELEMENT scripture (#PCDATA)>
+<!ELEMENT prayer (#PCDATA)>
+]

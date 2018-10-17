@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="businesscard.css"?>
+<!DOCTYPE BlogPosts SYSTEM "BlogPosts.dtd">
+<BlogPosts>
+    <BlogPost>
+      <date> October 29, 2018</date>
+      <title> Praying for the Prodigal</title>
+      <author>Patricia van der Merwe</author>
+      <content>article body</content>
+      <scripture>Bible reference</scripture>
+      <prayer>prayer</prayer>
+    </BlogPost>
+
+   <BlogPost>
+      <date> October 2, 2018</date>
+      <title> What's in my family line?</title>
+      <author type="Guest Blogger">Katharine Gruber</author>
+      <content>article body</content>
+      <scripture>Bible reference</scripture>
+      <prayer>prayer</prayer>
+    </BlogPost>
+  </BlogPosts>
